@@ -167,4 +167,4 @@ nome = input('Entre com seu nome: ').lower();
 for nome in nome:
     print(nome)
 
-#duhweud
+# aqq fnrjefbghogtaejh-\shjt
